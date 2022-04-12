@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.exe.config
+C:\Users\Pichau\source\repos\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.exe
+C:\Users\Pichau\source\repos\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.pdb
+C:\Users\Pichau\source\repos\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\source\repos\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Form1.resources
+C:\Users\Pichau\source\repos\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Properties.Resources.resources
+C:\Users\Pichau\source\repos\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.exe
+C:\Users\Pichau\source\repos\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.pdb
+C:\Users\Pichau\source\repos\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.frmP1.resources
+C:\Users\Pichau\source\repos\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.frmP2.resources
+C:\Users\Pichau\source\repos\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.frmFinal.resources
+C:\Users\Pichau\source\repos\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.frmP3.resources
